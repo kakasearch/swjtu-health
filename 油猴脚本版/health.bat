@@ -1,0 +1,1 @@
+start cmd /k "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --flag-switches-begin --flag-switches-end --enable-audio-service-sandbox --new-window http://xgsys.swjtu.edu.cn/SPCP/Web/UserLogin.aspx
