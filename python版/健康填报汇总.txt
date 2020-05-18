@@ -1,7 +1,0 @@
-{'stuId': '2018111123', 'stuName': 'name', 'IdCard': '123123'}
-{'stuId': '2018111124', 'stuName': 'name', 'IdCard': '123123'}
-{'stuId': '2018111125', 'stuName': 'name', 'IdCard': '123123'}
-{'stuId': '2018111126', 'stuName': 'name', 'IdCard': '123123'}
-{'stuId': '2018111127', 'stuName': 'name', 'IdCard': '123123'}
-
-
